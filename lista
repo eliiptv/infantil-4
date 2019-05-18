@@ -1,111 +1,111 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png" group-title="CANAIS INFANTIL",BABY TV HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20870
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20870
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png" group-title="CANAIS INFANTIL",BABY TV SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4401
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4401
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png" group-title="CANAIS INFANTIL",BABY TV SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20871
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20871
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",BOOMERANG FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/11534
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/11534
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",BOOMERANG HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10294
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10294
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",BOOMERANG SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4396
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4396
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",BOOMERANG SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20857
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20857
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/13210
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/13210
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7817
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7817
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20844
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20844
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4394
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4394
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20845
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20845
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/11546
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/11546
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7902
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7902
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20797
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20797
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4385
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4385
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20799
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20799
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Junior_Logo.png" group-title="CANAIS INFANTIL",DISNEY JUNIOR FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/13207
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/13207
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Junior_Logo.png" group-title="CANAIS INFANTIL",DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10286
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10286
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Junior_Logo.png" group-title="CANAIS INFANTIL",DISNEY JUNIOR HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20794
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20794
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Junior_Logo.png" group-title="CANAIS INFANTIL",DISNEY JUNIOR SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4384
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4384
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Junior_Logo.png" group-title="CANAIS INFANTIL",DISNEY JUNIOR SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20795
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20795
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png" group-title="CANAIS INFANTIL",DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20791
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20791
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png" group-title="CANAIS INFANTIL",DISNEY XD SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4383
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4383
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png" group-title="CANAIS INFANTIL",DISNEY XD SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20792
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20792
 #EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gloob.png" group-title="CANAIS INFANTIL",GLOOB HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7526
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7526
 #EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gloob.png" group-title="CANAIS INFANTIL",GLOOB HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20749
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20749
 #EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gloob.png" group-title="CANAIS INFANTIL",GLOOB SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4369
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4369
 #EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gloob.png" group-title="CANAIS INFANTIL",GLOOB SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20750
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20750
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="GLOOBINHO FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/74e4a5f0ba3ea11e0b9715260014.png" group-title="CANAIS INFANTIL",GLOOBINHO FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25013
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25013
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="GLOOBINHO HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/74e4a5f0ba3ea11e0b9715260014.png" group-title="CANAIS INFANTIL",GLOOBINHO HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10271
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10271
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="GLOOBINHO SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/74e4a5f0ba3ea11e0b9715260014.png" group-title="CANAIS INFANTIL",GLOOBINHO SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20701
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20701
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="GLOOBINHO SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/74e4a5f0ba3ea11e0b9715260014.png" group-title="CANAIS INFANTIL",GLOOBINHO SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10270
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10270
 #EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/natgeokids.png" group-title="CANAIS INFANTIL",NATGEO KIDS FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/13198
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/13198
 #EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/natgeokids.png" group-title="CANAIS INFANTIL",NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10261
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10261
 #EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/natgeokids.png" group-title="CANAIS INFANTIL",NATGEO KIDS HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20632
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20632
 #EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/natgeokids.png" group-title="CANAIS INFANTIL",NATGEO KIDS SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4350
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4350
 #EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/natgeokids.png" group-title="CANAIS INFANTIL",NATGEO KIDS SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20642
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20642
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png" group-title="CANAIS INFANTIL",NICK JR FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/11527
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/11527
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png" group-title="CANAIS INFANTIL",NICK JR HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10260
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10260
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png" group-title="CANAIS INFANTIL",NICK JR HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20631
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20631
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png" group-title="CANAIS INFANTIL",NICK JR SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4346
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4346
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png" group-title="CANAIS INFANTIL",NICK JR SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20637
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20637
 #EXTINF:-1 tvg-id="Nick" tvg-name="NICKELODEON FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png" group-title="CANAIS INFANTIL",NICKELODEON FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/11526
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/11526
 #EXTINF:-1 tvg-id="Nick" tvg-name="NICKELODEON HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png" group-title="CANAIS INFANTIL",NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7537
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7537
 #EXTINF:-1 tvg-id="Nick" tvg-name="NICKELODEON HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png" group-title="CANAIS INFANTIL",NICKELODEON HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20635
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20635
 #EXTINF:-1 tvg-id="Nick" tvg-name="NICKELODEON SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png" group-title="CANAIS INFANTIL",NICKELODEON SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4345
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4345
 #EXTINF:-1 tvg-id="Nick" tvg-name="NICKELODEON SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png" group-title="CANAIS INFANTIL",NICKELODEON SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20636
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20636
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tooncast.png" group-title="CANAIS INFANTIL",TOONCAST HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20485
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20485
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tooncast.png" group-title="CANAIS INFANTIL",TOONCAST SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4310
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4310
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tooncast.png" group-title="CANAIS INFANTIL",TOONCAST SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20486
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20486
 #EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV RA TIM BUM SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvratimbum.png" group-title="CANAIS INFANTIL",TV RA TIM BUM SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6933
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6933
 #EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV RA TIM BUM SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvratimbum.png" group-title="CANAIS INFANTIL",TV RA TIM BUM SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20476
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20476
 #EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV RA TIM BUM HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvratimbum.png" group-title="CANAIS INFANTIL",TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24787
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24787
 #EXTINF:-1 tvg-id="Zoomoo" tvg-name="ZOOMOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/200px-ZooMoo_logo.svg.png" group-title="CANAIS INFANTIL",ZOOMOO SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20450
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20450
